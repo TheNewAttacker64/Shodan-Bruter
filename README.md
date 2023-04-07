@@ -16,10 +16,10 @@ https://github.com/TheNewAttacker64/Shodan-Bruter
 
 To use the script, first make sure you have a list of usernames and passwords in the following format:
 
-...
+```
 username:password
 username:password
-...
+```
 
 Also you have the Ability to Brute One Account
 
