@@ -12,6 +12,8 @@ Once you have Python installed, you can clone this repository using Git:
 
 https://github.com/TheNewAttacker64/Shodan-Bruter
 
+then install the libs in  the req.txt file using pip
+
 ## Usage
 
 To use the script, first make sure you have a list of usernames and passwords in the following format:
