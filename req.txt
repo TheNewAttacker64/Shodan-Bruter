@@ -1,0 +1,4 @@
+requests
+fake_useragent
+easygui
+bs4
